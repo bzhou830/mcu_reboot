@@ -1,0 +1,9 @@
+D:\repos\ComDev\ComDev\bin\Release\ComDev.exe.config
+D:\repos\ComDev\ComDev\bin\Release\ComDev.exe
+D:\repos\ComDev\ComDev\bin\Release\ComDev.pdb
+D:\repos\ComDev\ComDev\obj\Release\ComDev.Form1.resources
+D:\repos\ComDev\ComDev\obj\Release\ComDev.Properties.Resources.resources
+D:\repos\ComDev\ComDev\obj\Release\ComDev.csproj.GenerateResource.Cache
+D:\repos\ComDev\ComDev\obj\Release\ComDev.exe
+D:\repos\ComDev\ComDev\obj\Release\ComDev.pdb
+D:\repos\ComDev\ComDev\obj\Release\ComDev.csprojResolveAssemblyReference.cache
