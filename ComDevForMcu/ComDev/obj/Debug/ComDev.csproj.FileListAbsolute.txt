@@ -18,3 +18,13 @@ D:\repos\ComDevForMcu\ComDev\bin\Debug\ComDev.exe.config
 D:\repos\ComDevForMcu\ComDev\bin\Debug\ComDev.exe
 D:\repos\ComDevForMcu\ComDev\bin\Debug\ComDev.pdb
 D:\repos\ComDevForMcu\ComDev\obj\Debug\ComDev.csproj.AssemblyReference.cache
+E:\repo\mcu_reboot\ComDevForMcu\ComDev\bin\Debug\ComDev.exe.config
+E:\repo\mcu_reboot\ComDevForMcu\ComDev\bin\Debug\ComDev.exe
+E:\repo\mcu_reboot\ComDevForMcu\ComDev\bin\Debug\ComDev.pdb
+E:\repo\mcu_reboot\ComDevForMcu\ComDev\obj\Debug\ComDev.csprojResolveAssemblyReference.cache
+E:\repo\mcu_reboot\ComDevForMcu\ComDev\obj\Debug\ComDev.Form1.resources
+E:\repo\mcu_reboot\ComDevForMcu\ComDev\obj\Debug\ComDev.Properties.Resources.resources
+E:\repo\mcu_reboot\ComDevForMcu\ComDev\obj\Debug\ComDev.csproj.GenerateResource.Cache
+E:\repo\mcu_reboot\ComDevForMcu\ComDev\obj\Debug\ComDev.csproj.CoreCompileInputs.cache
+E:\repo\mcu_reboot\ComDevForMcu\ComDev\obj\Debug\ComDev.exe
+E:\repo\mcu_reboot\ComDevForMcu\ComDev\obj\Debug\ComDev.pdb
